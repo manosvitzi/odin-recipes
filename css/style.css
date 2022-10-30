@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: sandybrown;
+}
+
+.main{
+    background-color: lightcoral;
+    font-weight: bold;
+    height: auto;
+    width: auto;
+    color: aliceblue;
+    font-size: 100px;
+    text-align: center;
+}
+
+.rest{
+    background-color: lightblue;
+    width: fit-content;
+    height: fit-content;
+    font-size: x-large;
+}
+
+.gbut{
+    font-size: large;
+}
+
+.spagetti{
+    background-color: lightcoral;
+    height: auto;
+    width: 300px;
+    color: beige;
+    font-size: 70px;
+}
+
+.spag{
+    height: auto;
+    width: 500px;
+}
