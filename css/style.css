@@ -18,10 +18,12 @@ body{
     width: fit-content;
     height: fit-content;
     font-size: x-large;
+    margin-left: 38%;
 }
 
 .gbut{
     font-size: large;
+    margin-left: 38%;
 }
 
 
